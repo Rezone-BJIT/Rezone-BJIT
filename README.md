@@ -1,8 +1,5 @@
   ![Software Engineer- QA](https://i.ibb.co/b3vFsdL/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg)
-<br>
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=Rezone-BJIT&&style=flat-square" align="center" />
-</div>  
+
 
 ### Hi there 👋, Sheikh Md. Rezone Ullah
 #### Software Engineer- QA
@@ -145,3 +142,21 @@ Skills: PYTHON/JAVA/C/C++/JAVASCRIPT/SELNIUM-JAVA/POSTMAN/JMETER/MS OFFICE
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rezone-BJIT)  
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Rezone-BJIT&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
